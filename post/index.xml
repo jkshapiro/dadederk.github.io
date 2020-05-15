@@ -13,13 +13,23 @@
     
     <item>
       <title>Improving your App’s Accessibility with iOS 13</title>
-      <link>https://dadederk.github.io/post/2020-05-13-10/</link>
+      <link>https://dadederk.github.io/post/2020-05-13-01/</link>
       <pubDate>Wed, 13 May 2020 18:30:00 +0100</pubDate>
       
-      <guid>https://dadederk.github.io/post/2020-05-13-10/</guid>
+      <guid>https://dadederk.github.io/post/2020-05-13-01/</guid>
       <description>Improving your App’s Accessibility with iOS 13 Note: This article was originally published in Medium
 I know, iOS 13 has been with us for quite some time now, WWDC 2020 is just around the corner and we hope Apple will present again a ton of new accessibility features and improvements coming with iOS 14.
 But it is almost Global Accessibility Awareness Day! And it is still a great time to catch up and implement everything new that was presented around accessibility in iOS 13 - it was a packed year!</description>
+    </item>
+    
+    <item>
+      <title>Improving your App’s Accessibility with iOS 11</title>
+      <link>https://dadederk.github.io/post/2018-02-14-01/</link>
+      <pubDate>Wed, 14 Feb 2018 18:30:00 +0100</pubDate>
+      
+      <guid>https://dadederk.github.io/post/2018-02-14-01/</guid>
+      <description>Improving your App’s Accessibility with iOS 11 Note: This article was originally published in Medium
+Apple introduced iOS 11 at their World Wide Developer Conference (WWDC) in June 2017. WWDC is Apple’s showcase of new tools and developer APIs covering iOS, macOS, watchOS, and tvOS. In this post we’d like to show you what’s new in accessibility in iOS 11, and how you can incorporate these features to make your app more accessible to your users.</description>
     </item>
     
   </channel>
