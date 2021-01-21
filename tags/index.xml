@@ -6,10 +6,46 @@
     <description>Recent content in Tags on Accessibility -&gt; Up to 11!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Oct 2020 15:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 21 Jan 2021 12:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://dadederk.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>a11y</title>
+      <link>https://dadederk.github.io/tags/a11y/</link>
+      <pubDate>Thu, 21 Jan 2021 12:00:00 +0100</pubDate>
+      
+      <guid>https://dadederk.github.io/tags/a11y/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accessibility</title>
+      <link>https://dadederk.github.io/tags/accessibility/</link>
+      <pubDate>Thu, 21 Jan 2021 12:00:00 +0100</pubDate>
+      
+      <guid>https://dadederk.github.io/tags/accessibility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iOS</title>
+      <link>https://dadederk.github.io/tags/ios/</link>
+      <pubDate>Thu, 21 Jan 2021 12:00:00 +0100</pubDate>
+      
+      <guid>https://dadederk.github.io/tags/ios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swift</title>
+      <link>https://dadederk.github.io/tags/swift/</link>
+      <pubDate>Thu, 21 Jan 2021 12:00:00 +0100</pubDate>
+      
+      <guid>https://dadederk.github.io/tags/swift/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>#a11yTo</title>
@@ -21,56 +57,11 @@
     </item>
     
     <item>
-      <title>a11y</title>
-      <link>https://dadederk.github.io/tags/a11y/</link>
-      <pubDate>Fri, 23 Oct 2020 15:00:00 +0100</pubDate>
-      
-      <guid>https://dadederk.github.io/tags/a11y/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Accessibility</title>
-      <link>https://dadederk.github.io/tags/accessibility/</link>
-      <pubDate>Fri, 23 Oct 2020 15:00:00 +0100</pubDate>
-      
-      <guid>https://dadederk.github.io/tags/accessibility/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>iOS</title>
-      <link>https://dadederk.github.io/tags/ios/</link>
-      <pubDate>Fri, 23 Oct 2020 15:00:00 +0100</pubDate>
-      
-      <guid>https://dadederk.github.io/tags/ios/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Swift</title>
-      <link>https://dadederk.github.io/tags/swift/</link>
-      <pubDate>Fri, 23 Oct 2020 15:00:00 +0100</pubDate>
-      
-      <guid>https://dadederk.github.io/tags/swift/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>talk</title>
       <link>https://dadederk.github.io/tags/talk/</link>
       <pubDate>Fri, 23 Oct 2020 15:00:00 +0100</pubDate>
       
       <guid>https://dadederk.github.io/tags/talk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>iOS 11</title>
-      <link>https://dadederk.github.io/tags/ios-11/</link>
-      <pubDate>Tue, 11 Aug 2020 18:30:00 +0100</pubDate>
-      
-      <guid>https://dadederk.github.io/tags/ios-11/</guid>
       <description></description>
     </item>
     
@@ -89,6 +80,15 @@
       <pubDate>Wed, 13 May 2020 18:30:00 +0100</pubDate>
       
       <guid>https://dadederk.github.io/tags/wwdc-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iOS 11</title>
+      <link>https://dadederk.github.io/tags/ios-11/</link>
+      <pubDate>Wed, 14 Feb 2018 18:30:00 +0100</pubDate>
+      
+      <guid>https://dadederk.github.io/tags/ios-11/</guid>
       <description></description>
     </item>
     
